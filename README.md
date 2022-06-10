@@ -57,6 +57,7 @@ Esta práctica es similar a otra [(Azure Functions)](https://github.com/JohnNadj
 
         | ID Tweet | Tweeteado por | Texto del tweet | Localización | Sentimiento | Fecha |
         | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+        
         ![4.1](https://github.com/JohnNadja/Practica-Logic-Apps/blob/main/images/4.1.png)
 
 5. Volviendo a la instancia de la función nueva, buscaremos un nuevo paso, y éste será uno de tipo **Cognitive Services**. Escribimos en el campo de búsqueda *"text"* y seleccionamos las opciones como se muestran a continuación:
